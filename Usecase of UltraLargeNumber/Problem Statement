@@ -1,0 +1,13 @@
+Problem Statement : Count the number of pairs of array indices i < j such that data[i] - data[j] = target.
+
+Input Format
+
+*Target
+*Length of Array (say n)
+*Next n elements in different lines
+
+Output Format
+
+Single integer of number of pairs that follows problem statement
+
+Time complexity: Naive O(n^2) , Using Hashmap O(n);
